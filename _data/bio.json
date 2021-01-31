@@ -1,34 +1,34 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Elise Roger",
+    "label": "Postdoc",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
+    "email": "elise.roger@univ-grenoble-alpes.fr",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "website": "https://lpnc.univ-grenoble-alpes.fr/Elise-Roger",
+    "summary": "I am a postdoc in Cognitive Neurosciences in the Department of Psychology at the University Grenoble Alps. I am interested in higher cognitive functions such as language, brain networks & neuroplasticity.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "38000",
+      "city": "Grenoble",
+      "countryCode": "France",
+      "region": "French Alps"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "eliseRg",
+        "url": "https://github.com/eliseRg/"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "EliseRoger",
+        "url": "https://www.linkedin.com/in/eliseneuropsy/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "rgrelise",
+        "url": "https://twitter.com/rgrelise?lang=fr"
       },
       {
         "network": "instagram",
