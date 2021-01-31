@@ -6,7 +6,7 @@
     "email": "elise.roger@univ-grenoble-alpes.fr",
     "phone": "808-333-4444",
     "website": "https://lpnc.univ-grenoble-alpes.fr/Elise-Roger",
-    "summary": "I am a postdoc in Cognitive Neurosciences in the Department of Psychology at the University Grenoble Alps. I am interested in higher cognitive functions such as language, brain networks & neuroplasticity.",
+    "summary": "I am a postdoc in Cognitive Neurosciences in the Department of Psychology at the University Grenoble Alps. Welcome aboard!",
     "location": {
       "address": "",
       "postalCode": "38000",
@@ -39,23 +39,33 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Cognitive functions",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Language",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Brain networks",
       "keywords": [
       ]
     }
   ],
+  
+      {
+      "name": "Neuroplasticity",
+      "keywords": [
+      ]
+    }
+  ],
+  
+  
+  
   "skills": [
     {
       "name": "Languages and Frameworks",
