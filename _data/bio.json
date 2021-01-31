@@ -89,8 +89,8 @@
       "institution": "University Grenoble Alps, Grenoble, FR",
       "area": " Cognitive neurosciences",
       "studyType": "Ph.D.",
-      "startDate": "Oct. 2017",
-      "endDate": "Oct. 2020",
+      "startDate": "2017",
+      "endDate": "2020",
       "gpa": "",
       "courses": [
       ]
@@ -98,18 +98,18 @@
      {
       "institution": "University Grenoble Alps, Grenoble, FR",
       "area": " Cognitive neurosciences",
-      "studyType": "M.s.",
-      "startDate": "Sept. 2016",
-      "endDate": "June 2017",
+      "studyType": "MSc.",
+      "startDate": "2016",
+      "endDate": "2017",
       "gpa": "",
       "courses": [
       ]
     }
   ],
-  "work": [
+  "work & experiences": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "University Grenoble Alps",
+      "position": "Postdoc",
       "website": "",
       "startDate": "2015-08-01",
       "endDate": "Present",
@@ -120,9 +120,33 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
+      "company": "University Grenoble Alps",
+      "position": "Ph.D. Student",
+      "website": "https://www.univ-grenoble-alpes.fr/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    },
+    {
+      "company": "University Grenoble Alps",
+      "position": "Assistant Engineer",
+      "website": "https://www.univ-grenoble-alpes.fr/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    },
+    {
+      "company": "Grenoble University Hospital Center",
+      "position": "Neuropsychology Internship",
+      "website": "https://www.chu-grenoble.fr/",
       "startDate": "2015-01-01",
       "endDate": "2016-03-15",
       "summary": "",
