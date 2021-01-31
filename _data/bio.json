@@ -67,12 +67,9 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "Matlab",
+        "R",
       ]
     },
     {
@@ -89,11 +86,21 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "University Grenoble Alps, Grenoble, FR",
+      "area": " Cognitive neurosciences",
+      "studyType": "Ph.D.",
+      "startDate": "Oct. 2017",
+      "endDate": "Oct. 2020",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+     {
+      "institution": "University Grenoble Alps, Grenoble, FR",
+      "area": " Cognitive neurosciences",
+      "studyType": "M.s.",
+      "startDate": "Sept. 2016",
+      "endDate": "June 2017",
       "gpa": "",
       "courses": [
       ]
